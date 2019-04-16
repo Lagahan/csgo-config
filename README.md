@@ -44,6 +44,11 @@ https://www.howtogeek.com/273180/how-to-disable-windows-10s-game-dvr-and-game-ba
   ![nvidia-2](./images/nvidia-2.png)  
   ![nvidia-3](./images/nvidia-3.png)  
 
+Digital Vibrance:  
+- This is a preference thing but you can crank up the color saturation using this:  
+  ![nvidia-4](./images/nvidia-4.png)  
+- You can use VibranceGUI to do this automatically when starting the game:  
+  https://vibrancegui.com/
 ----
 
 ## Driver DPC Latency
